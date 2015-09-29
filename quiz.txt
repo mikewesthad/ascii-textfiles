@@ -1,0 +1,22 @@
+QUIZ
+====
+
+1. Open terminal
+
+	THE FOLLOWING STEPS MUST BE IN TERMINAL
+
+2. Create a new directory (Day02_Quiz/) somewhere in your CodeAbode folder
+3. Create a blank app.js file in your quiz folder
+4. Create a new directory called ASCII
+5. Curl the following file and save it into ASCII/
+	https://raw.githubusercontent.com/mikewesthad/ascii-textfiles/master/cows.txt
+	OR
+	https://raw.githubusercontent.com/mikewesthad/ascii-textfiles/master/barney.txt
+
+	SUBLIME
+
+6. Fill out app.js so that it loads that ascii file and prints it to the console
+
+	TERMINAL
+
+7. Run your app.js
